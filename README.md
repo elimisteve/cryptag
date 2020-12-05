@@ -1,5 +1,7 @@
 ## CrypTag
 
+[![Join the chat at https://gitter.im/elimisteve/cryptag](https://badges.gitter.im/elimisteve/cryptag.svg)](https://gitter.im/elimisteve/cryptag?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **_Encrypted, taggable, searchable cloud storage._**
 
 CrypTag was announced at DEF CON 23 in August of 2015.  Presentation
